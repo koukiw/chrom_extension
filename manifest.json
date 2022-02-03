@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "カルモ申込チェッカー",
+    "version": "1.0.0",
+    "permissions": [
+        "idle",
+        "notifications"
+    ],
+    "icons": {
+    },
+    "background": {
+      "scripts": [
+        "index.js"
+      ]
+    },
+    "browser_action": {
+    }
+
+}
